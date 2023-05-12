@@ -31,7 +31,9 @@ la terza è ultima sottorete 192.168.1.0/26
 ![Busta](./img/Simulazione.png) cliccare sopra e poi cliccare su due pc, uno sara il mittente e l'altro il destinatario.
 
 #### Dopo aver fatto ciò dobbiamo avviare la simulazione, per farlo andiamo in basso a destra e clicchiamo su simulazione 
-![Simulation](./img/Simulation.png)
+![Simulation](./img/Simulation.png) dopo che abbiamo cliccato qui sopra ci si apre un riquadro ![Simulation](./img/SimulazioneRiquadro.png)
+
+
 
 
 
