@@ -21,9 +21,11 @@ la terza è ultima sottorete 192.168.1.0/26
 
 #### Le configuriamo partendo dall'alto
 
-![1.1sottorete](./img/1.1sottorete.png) 192.168.1.0/27
+![1.1sottorete](./img/1.1sottorete.png) Prima sottorete 192.168.1.0/27
 
-![2.1sottorete](./img/2.1sotorete.png) 192.168.1.0/26
+![2.1sottorete](./img/2.1sotorete.png)  Seconda sottorete 192.168.1.0/26
+
+![3.1sottorete](./img/3.1sotorete.png) Terza e ultima sottorete 192.168.1.0/28
 
 
 
