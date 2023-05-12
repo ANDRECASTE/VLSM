@@ -17,7 +17,7 @@ la terza è ultima sottorete 192.168.1.0/26
 ![3sottorete](./img/3sottorete.png) 192.168.1.0/26
 
 #### Dopo aver configuato la prima sottorete proviamo ad avviare la simulazione e vedere se i pacchetti arrivano da un computer di una sottorete fino al computer di un altra sottorete, se funziona tutto come ne mio caso,
-proseguiamo con la configuarazione della rete 2 in questo caso le CIDR sono sempre le stesse (/27,/28,/26), cambia solo l'ordine in cui sono disposte.
+#### proseguiamo con la configuarazione della rete 2 in questo caso le CIDR sono sempre le stesse (/27,/28,/26), cambia solo l'ordine in cui sono disposte.
 
 
 
