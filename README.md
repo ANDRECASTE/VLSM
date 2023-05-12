@@ -28,8 +28,10 @@ la terza è ultima sottorete 192.168.1.0/26
 ![3.1sottorete](./img/3.1sottorete.png) Terza e ultima sottorete 192.168.1.0/28
 
 #### Anche in questo caso avviare la simulazione per vedere se i pc delle sottoreti comunicano tra loro, per avviare la simulazione bisogna andare in alto e cliccare sulla figura della busta 
-![Busta](./img/Simulazione.png)
+![Busta](./img/Simulazione.png) cliccare sopra e poi cliccare su due pc, uno sara il mittente e l'altro il destinatario.
 
+#### Dopo aver fatto ciò dobbiamo avviare la simulazione, per farlo andiamo in basso a destra e clicchiamo su simulazione 
+![Simulation](./img/Simulation.png)
 
 
 
