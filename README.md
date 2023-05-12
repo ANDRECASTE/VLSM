@@ -23,7 +23,7 @@ la terza è ultima sottorete 192.168.1.0/26
 
 ![1.1sottorete](./img/1.1sottorete.png) 192.168.1.0/27
 
-![2.1sottorete](./img/2.1sottorete.png) 192.168.1.0/26
+![2.1sottorete](./img/2.1sotorete.png) 192.168.1.0/26
 
 
 
